@@ -1,1 +1,1 @@
-alert("oh-uh!")
+alert("oh")
