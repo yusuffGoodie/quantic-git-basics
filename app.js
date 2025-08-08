@@ -1,1 +1,1 @@
-alert("hmm")
+alert("first")
